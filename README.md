@@ -9,11 +9,15 @@
 
 - 🤝 I’m looking for help with **java**
 
-- 💬 Ask me about **Mathematics & Problem-Solving 🧠 C Programming & DBMS Concepts 💻 Web Development (HTML & CSS) 🌐 AI & ML (beginner-level queries) 🤖 (learning)**
+- 💬 Ask me about **Mathematics & Problem-Solving 🧠
+- C Programming & DBMS Concepts 💻
+- Web Development (HTML & CSS) 🌐
+- AI & ML (beginner-level queries) 🤖 (learning)**
 
 - 📫 How to reach me **sibanijena362@gmail.com**
 
-- ⚡ Fun fact **🧩 I see coding and math problems as puzzles waiting to be solved 🔥 I believe coffee + coding = perfect combo**
+- ⚡ Fun fact **🧩 I see coding and math problems as puzzles waiting to be solved 🔥
+-  I believe coffee + coding = perfect combo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
